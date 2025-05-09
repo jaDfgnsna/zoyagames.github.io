@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Games - Zoya Games</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial; text-align: center; padding: 20px; }
+    .game {
+      display: inline-block;
+      margin: 10px;
+      border: 2px solid #ccc;
+      padding: 10px;
+    }
+    .game img {
+      width: 150px;
+      height: 150px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Our Games</h1>
+  <div class="game">
+    <img src="https://via.placeholder.com/150" alt="Game 1">
+    <p>Game 1</p>
+  </div>
+  <div class="game">
+    <img src="https://via.placeholder.com/150" alt="Game 2">
+    <p>Game 2</p>
+  </div>
+  <br>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
